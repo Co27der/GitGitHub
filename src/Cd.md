@@ -1,3 +1,3 @@
 [//]: #(You use it to move into the folder that contains your project) 
-`cd Folder-Name`
-`cd Desktop/myproject`
+1. `cd Folder-Name`
+2. `cd Desktop/myproject`
