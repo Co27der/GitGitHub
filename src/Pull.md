@@ -1,4 +1,4 @@
-[//]: This downloads the latest changes from GitHub and merges them with your local branch
+<!-- This downloads the latest changes from GitHub and merges them with your local branch-->
 1. `git pull` Default fetch + merge
 2. `git pull origin <branch>` Pull from a specific branch
 3. `git pull --rebase`Apply local commits on top of remote changes
